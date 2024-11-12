@@ -1,0 +1,1 @@
+["pomme", "banane", "cerise"].forEach((element) => console.log(element));
